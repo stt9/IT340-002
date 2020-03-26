@@ -1,0 +1,677 @@
+    1  ls
+    2  clear
+    3  ls
+    4  cd dir
+    5  ls
+    6  cd ~
+    7  mkdir Lab1
+    8  ls
+    9  cd Lab1
+   10  nano Labcat.txt
+   11  cd ~
+   12  cd dir
+   13  ls
+   14  cd 
+   15  cd Lab1
+   16  pwd
+   17  cd
+   18  cd dir
+   19  ls
+   20  mv something10.txt /home/vagrant/Lab1
+   21  sudo mv something.txt /home/vagrant/Lab1
+   22  sudo mv something10.txt /home/vagrant/Lab1
+   23  sudo mv something4.txt /home/vagrant/Lab1
+   24  sudo mv something9.txt /home/vagrant/Lab1
+   25  cd
+   26  ls
+   27  cd Lab1
+   28  ls
+   29  cat something10.txt
+   30  cd
+   31  cat answers.zip
+   32  ls -a
+   33  cd .gnupg
+   34  ls
+   35  cd .
+   36  cd ..
+   37  cd .cache
+   38  ls
+   39  cd ..
+   40  cd .profile
+   41  cd .ssh
+   42  ls
+   43  ls -a
+   44  cd ..
+   45  cd .local
+   46  ls
+   47  cd
+   48  clear
+   49  ls
+   50  ls -a
+   51  ls -al
+   52  cd /var
+   53  ls
+   54  cd
+   55  cd /etc
+   56  ls
+   57  ls -a
+   58  ls -al
+   59  clear
+   60  cd ..
+   61  cd /
+   62  ls
+   63  cd bin
+   64  ls
+   65  cd ..
+   66  ls
+   67  cd dev
+   68  ls
+   69  cd ~
+   70  clear
+   71  cd /var
+   72  ls
+   73  ls -a
+   74  cd cache
+   75  ls
+   76  ls -al
+   77  cd ..
+   78  cd local
+   79  ls -al
+   80  ls
+   81  ls -a
+   82  cd log
+   83  cd ..
+   84  cd log
+   85  ls
+   86  cd ..
+   87  cd pollinate
+   88  ls -al
+   89  cd mail
+   90  ls -a
+   91  ls -al
+   92  cd ..
+   93  cd opt
+   94  ls -al
+   95  ls
+   96  cd ~
+   97  ls
+   98  clear
+   99  cd /etc
+  100  ls
+  101  cd labsample
+  102  cd
+  103  cd /etc/labsample
+  104  ls
+  105  sudo mv test6.txt /home/vagrant/Lab1
+  106  cd ..
+  107  cd vim
+  108  ls
+  109  cd ..
+  110  cd
+  111  cd media
+  112  cd /media
+  113  ls
+  114  cd cdrom
+  115  ls
+  116  ls -a
+  117  cd ..
+  118  cd sample
+  119  ls
+  120  sudo mv word2.txt /home/vagrant/Lab1
+  121  sudo mv word5.txt /home/vagrant/Lab1
+  122  sudo mv word7.txt /home/vagrant/Lab1
+  123  cd
+  124  ls
+  125  cd Lab1
+  126  ls
+  127  cd
+  128  cd /
+  129  ls
+  130  cd bin
+  131  ls
+  132  cd ..
+  133  cd dev
+  134  ls
+  135  cd ..
+  136  home
+  137  cd home
+  138  ls
+  139  cd vagrant
+  140  ls
+  141  cd /
+  142  cd opt
+  143  ls
+  144  cd ..
+  145  cd usr
+  146  ls
+  147  cd ..
+  148  cd var
+  149  ls
+  150  cd snap
+  151  ls
+  152  ls -a
+  153  cd ..
+  154  cd proc
+  155  cd dev
+  156  cd /dev
+  157  ls
+  158  clear
+  159  cd ..
+  160  ls
+  161  cd srv
+  162  ls
+  163  cd sys 
+  164  cd ..
+  165  cd sys
+  166  ls
+  167  cd dev
+  168  ls
+  169  cd block
+  170  dev
+  171  ls
+  172  cd ..
+  173  cd lost+found
+  174  sudo cd lost+found
+  175  cd sbin
+  176  ls
+  177  clear
+  178  cd ..
+  179  ls
+  180  cd boot
+  181  ls
+  182  cd grub
+  183  ls
+  184  cd ~
+  185  cd etv
+  186  cd etc
+  187  cd /etc
+  188  clear
+  189  ls
+  190  cd labsample
+  191  ls
+  192  clear
+  193  cd ..
+  194  cd
+  195  ls
+  196  cd /media
+  197  ls
+  198  cd sample
+  199  ls
+  200  cd cdrom
+  201  cd ..
+  202  cd cdrom
+  203  ls
+  204  ls -a
+  205  cd
+  206  clear
+  207  cd /var
+  208  ls
+  209  cd backups
+  210  ls
+  211  ls -a
+  212  cd ..
+  213  cd cache
+  214  ls
+  215  cd  apparmor
+  216  ls
+  217  cd ..
+  218  cd apt
+  219  ls
+  220  cd archives
+  221  ls
+  222  cd partial
+  223  sudo cd partial
+  224  cd ..
+  225  clear
+  226  ls
+  227  cd crash
+  228  ls
+  229  cd .
+  230  cd ..
+  231  cd lib
+  232  ls
+  233  cd vim
+  234  ls
+  235  cd addons
+  236  ls
+  237  cd ..
+  238  cd local
+  239  ls
+  240  cd ..
+  241  cd lock
+  242  ls 
+  243  cd 1vm
+  244  cd lmb
+  245  cd lvm
+  246  cd ..
+  247  cd mail
+  248  ls
+  249  cd ..
+  250  cd opt
+  251  ls
+  252  clear
+  253  ls
+  254  cd ..
+  255  ls
+  256  cd run
+  257  ls
+  258  cd tmpfiles.d
+  259  ls
+  260  cd
+  261  cd /var
+  262  clear
+  263  ls
+  264  cd snap
+  265  ls
+  266  cd ..
+  267  cd spool
+  268  ls
+  269  cd cron
+  270  ls
+  271  cd ..
+  272  cd mail
+  273  ls
+  274  cd ..
+  275  cd crontabs
+  276  cd ..
+  277  cd tmp
+  278  ls
+  279  cd ..
+  280  cd www
+  281  ls
+  282  cd html
+  283  ls
+  284  cd project
+  285  ls
+  286  sudo mv intro3.txt /home/vagrant/Lab1
+  287  cd
+  288  clear
+  289  cd Lab1
+  290  ls
+  291  cd
+  292  clear
+  293  ls -al
+  294  clear
+  295  cd /var
+  296  ls
+  297  cd
+  298  cd /tmp
+  299  ls
+  300  cd
+  301  cd /
+  302  ls
+  303  cd var
+  304  ls
+  305  cd ..
+  306  cd mnt
+  307  ls
+  308  cd ..
+  309  cd boot
+  310  ls
+  311  cd grub
+  312  ls
+  313  cat gfxblacklist.txt
+  314  clear
+  315  cd ..
+  316  clear
+  317  ls
+  318  cd proc
+  319  ls
+  320  cd fs
+  321  ls
+  322  cd ext4
+  323  ls
+  324  cd ..
+  325  cd jbd2
+  326  ls
+  327  cd ..
+  328  ls
+  329  clear
+  330  ls
+  331  cd irq
+  332  ls
+  333  cd ..
+  334  cd scsi
+  335  ls
+  336  cd sg
+  337  ls
+  338  cd ..
+  339  ls
+  340  clear
+  341  ls
+  342  cd sys
+  343  ls
+  344  cd abi
+  345  ls
+  346  cd ..
+  347  cd debug
+  348  ls
+  349  cd ..
+  350  cd dev
+  351  ls
+  352  cd cdrom
+  353  ls
+  354  cd ..
+  355  ls
+  356  cd /dev
+  357  clear
+  358  ls
+  359  cd ..
+  360  clear
+  361  ls
+  362  cd proc
+  363  ls
+  364  clear
+  365  ls
+  366  cd ..
+  367  clear
+  368  ls
+  369  cd lib
+  370  ls
+  371  cd lsb
+  372  ls
+  373  cd ..
+  374  ls
+  375  cd ..
+  376  clear
+  377  ls
+  378  cd run
+  379  ls
+  380  cd user
+  381  ls
+  382  cd 1000
+  383  ls
+  384  cd systemd
+  385  ls
+  386  cd ..
+  387  clear
+  388  ls
+  389  cd ..
+  390  clear
+  391  ls
+  392  cd samba
+  393  ls
+  394  cd ..
+  395  clear
+  396  ls
+  397  cd dbus
+  398  ls
+  399  clear
+  400  cd ..
+  401  clear
+  402  ls
+  403  cd media
+  404  ls
+  405  cd sample
+  406  ls
+  407  cd ..
+  408  clear
+  409  ls
+  410  cd usr
+  411  ls
+  412  cd bin
+  413  ls
+  414  clear
+  415  cd ..
+  416  ls
+  417  cd include
+  418  ls
+  419  cd
+  420  clear
+  421  cd ..
+  422  cd
+  423  history
+  424  clear
+  425  cd /
+  426  ls
+  427  ls -al
+  428  cd .
+  429  ls
+  430  clear
+  431  cd ~
+  432  clear
+  433  cd /etc
+  434  ls
+  435  cd fonts
+  436  ls
+  437  cd ..
+  438  cd kernel
+  439  l
+  440  ls
+  441  cd ..
+  442  cd xdg
+  443  ls
+  444  cd autostart
+  445  ls
+  446  cd ..
+  447  cd systemd
+  448  ls
+  449  cd user
+  450  ls
+  451  ls 0a
+  452  ls -a
+  453  cd ..
+  454  clear
+  455  ls
+  456  cd acpi
+  457  ls
+  458  cd events
+  459  ls
+  460  cd ..
+  461  cd apm
+  462  ls
+  463  cd event.d
+  464  ls
+  465  cd ..
+  466  clear
+  467  ls
+  468  cd  alternatives
+  469  ls
+  470  cd ..
+  471  cd apt
+  472  ls
+  473  cd ..
+  474  clear
+  475  ls
+  476  cd default
+  477  ls
+  478  cd ..
+  479  cd dhcp
+  480  ls
+  481  cd ..
+  482  cd dpkg
+  483  ls
+  484  cd origins
+  485  ls
+  486  cd ..
+  487  cd groff
+  488  ls
+  489  cd ..
+  490  cd init
+  491  ls
+  492  cd ..
+  493  cd kernel
+  494  ls
+  495  cd ..
+  496  cd lvm
+  497  ls
+  498  cd archivE
+  499  cd archive
+  500  ls
+  501  cd ..
+  502  clear
+  503  ls
+  504  cd gss
+  505  ls
+  506  cd mech.d
+  507  ls
+  508  cd ..
+  509  mdadm
+  510  cd mdadm
+  511  cd ..
+  512  cd pm
+  513  ls
+  514  cd ..
+  515  clear
+  516  ls
+  517  cd newt
+  518  ls
+  519  cd ..
+  520  cd skel
+  521  ls
+  522  cd ..
+  523  cd landscape
+  524  ls
+  525  cd ..
+  526  cd ssl
+  527  ls
+  528  cd certs
+  529  ls
+  530  cd ..
+  531  cd private
+  532  ls
+  533  sudo cd private
+  534  clear
+  535  cd ..
+  536  ls
+  537  cd perl
+  538  ls
+  539  cd CPAN
+  540  ls
+  541  cd ..
+  542  cd Net
+  543  ls
+  544  cd ..
+  545  cd security
+  546  ls
+  547  cd ..
+  548  clear
+  549  ls
+  550  cd ufw
+  551  ls
+  552  cd ..
+  553  cd udev
+  554  ls
+  555  cd ..
+  556  cd terminfo
+  557  ls
+  558  cat README
+  559  cd ..
+  560  clear
+  561  ls
+  562  cd samba
+  563  ls
+  564  cd tls
+  565  cd
+  566  ls
+  567  cd dir
+  568  ls
+  569  ls. -a
+  570  ls -a
+  571  cd ..
+  572  clear
+  573  ls
+  574  cd Lab1
+  575  ls
+  576  cd
+  577  find intro1.txt
+  578  man find
+  579  grep -l .txt
+  580  find / .txt
+  581  clear
+  582  history
+  583  clear
+  584  find ./GFG -name .txt
+  585  find ./ -name .txt
+  586  find ./ -name *.txt
+  587  find / -name *.txt
+  588  clear
+  589  cd /usr/local/lab
+  590  ls
+  591  sudo mv file1.txt /home/vagrant/Lab1
+  592  sudo mv file8.txt /home/vagrant/Lab1
+  593  cd ~
+  594  clear
+  595  ls
+  596  cd Lab1
+  597  l
+  598  ls
+  599  clear
+  600  ls
+  601  ls -l | sort
+  602  ls
+  603  ls -v
+  604  ls -l | sort -n -k1.4
+  605  ls
+  606  clear
+  607  ls -l
+  608  clear
+  609  man sort
+  610  ls -l | sort -g
+  611  ls
+  612  ls -v
+  613  ls -lv
+  614  clear
+  615  ls
+  616  ls -v
+  617  ls -lt
+  618  ls
+  619  clear
+  620  ls -lt
+  621  cat something10.txt
+  622  cat something9.txt
+  623  cat file8
+  624  cd file8.txt
+  625  cat file8.txt
+  626  cat word7.txt
+  627  cat test6.txt
+  628  cat word5.txt
+  629  cat something4.txt
+  630  cat intro3.txt
+  631  cat word2.txt
+  632  cat file1.txt
+  633  ls -r
+  634  ls -lr
+  635  ls -l | sort -k6M -k7n
+  636  ls stat
+  637  ls -tU
+  638  ls -c
+  639  ls -lct
+  640  clear
+  641  ls -lct
+  642  cat file8.txt
+  643  nano Labcat.txt
+  644  cat file1.txt
+  645  nano Labcat.txt
+  646  cat intro3.txt
+  647  nano Labcat.txt
+  648  cat word7.txt
+  649  nano Labcat.txt
+  650  cat word5.txt
+  651  nano Labcat.txt
+  652  cat word2.txt
+  653  nano Labcat.txt
+  654  cat test6.txt
+  655  nano Labcat.txt
+  656  cat something9.txt
+  657  nano Labcat.txt
+  658  cat something4.txt
+  659  nano Labcat.txt
+  660  cat something10.txt
+  661  nano Labcat.txt
+  662  ls
+  663  cd
+  664  clear
+  665  ls
+  666  git init
+  667  git add README.md
+  668  git add  answer.zip
+  669  git remote add origin https://github.com/stt9/IT340-002.git
+  670  git push -u origin master
+  671  git push origin master
+  672  git commit "first commit"
+  673  git -m "first commit"
+  674  git commit -m "first commit"
+  675  git remote add origin https://github.com/stt9/IT340-002.git
+  676  git push -u origin master
+  677  history > history.txt
